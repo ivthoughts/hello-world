@@ -30,4 +30,8 @@ I work primarily with the following langugages/software:
 ## About Me in a personal sense
 
 
+## Useful Links
+1. I have a blog I occassionlly show work on: https://ivthoughts.com/
+2. I have a Tableau Public I occassionally build dashboards on: https://public.tableau.com/app/profile/ivthoughts/vizzes#!/
+
 
