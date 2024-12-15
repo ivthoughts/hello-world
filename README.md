@@ -12,19 +12,22 @@ I work primarily with the following langugages/software:
  1. SQL: use daily for backend code/adhoc analysis, very advanced skill level
  2. Tableau Desktop/Server: use for front end of reports for business users, solid skill level
  3. Alteryx Designer/Server: use for backend code automation and ad hoc analysis and data engineering, solid skill level (core certification level plus experience)
-Additional skills:
+    
+### Additional skills:
  1. R and R Studio: use a little at work, experience using it in other roles. Sometimes personally as well
  2. Python: Light use as at work, but use mostly in a personal manner.
  3. Presentations: I have presented on work from Manager level all the way up to VP level, in Marketing and in Sales, and levels in between.
  4. Managing/Mentorship: I mentor multiple employees in my company
  5. Creating Documentation: Good about commenting my code, building documentation on topics/projects I have worked on to share with others.
-Background and likes:
+    
+### Background and likes:
  1. My education background was in computer science.
  2. I enjoy mentoring and sharing knowledge with others.
  3. I enjoy building selef service tools for others
  4. I enjoy solving complex problems.
  5. I can explain technical concepts and ideas to non technical users.
 
+## About Me in a personal sense
 
 
 
