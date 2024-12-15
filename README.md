@@ -2,8 +2,8 @@
 This repository is for practicing the GitHub Flow
 
 ## Tutorial Info
-I followed the tutorial at this link to get started with github.
-https://docs.github.com/en/get-started/start-your-journey/hello-world 
+1. I followed the tutorial at this link to get started with github: https://docs.github.com/en/get-started/start-your-journey/hello-world
+2. I followed this tutorial to add more to my read me and profile: https://docs.github.com/en/get-started/start-your-journey/setting-up-your-profile
 
 ## About Me in a professional sense
 I am a professional Business Intelligence & Analytics Manager.
